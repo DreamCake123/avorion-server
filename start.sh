@@ -1,1 +1,0 @@
-docker run -itd --name "AvorionServer" --env ADMIN=76561198112140433 avorion_server

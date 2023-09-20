@@ -1,1 +1,0 @@
-docker build --tag avorion_server .
